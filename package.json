@@ -1,0 +1,15 @@
+{
+  "name": "ngdocs-angular-1.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-ngdocs": "git://github.com/nikhilmodak/gulp-ngdocs.git#4660f70e792cf8ec92b9699b6cda030a550c68f5"
+  }
+}

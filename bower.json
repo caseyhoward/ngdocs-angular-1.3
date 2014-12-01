@@ -1,0 +1,17 @@
+{
+  "name": "ngdocs-angular-1.3",
+  "version": "0.0.0",
+  "authors": [
+    "Casey Howard <choward@streamsend.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
